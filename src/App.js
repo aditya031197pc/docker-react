@@ -11,12 +11,10 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/aditya031197pc/docker-react"
           target="_blank"
           rel="noopener noreferrer"
-        >
-          Aditya is learning Docker. 
-        </a>
+        >Aditya is learning Docker.</a>
       </header>
     </div>
   );
